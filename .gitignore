@@ -1,0 +1,3 @@
+poky-zeus
+bbb/build/*
+!bbb/build/conf
