@@ -1,3 +1,4 @@
 poky-zeus
 bbb/build/*
 !bbb/build/conf
+!bbb/build/meta-bbb
