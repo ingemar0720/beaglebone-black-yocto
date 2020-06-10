@@ -31,7 +31,9 @@ texinfo
   git clone -b zeus git://git.yoctoproject.org/meta-virtualization.git # for docker, skip if no need
   ```
 ### clone this repo
-1. 
+```
+git clone git@github.com:ingemar0720/beaglebone-black-yocto.git
+```
 ## build
 1. setup bitbake and env
 ```
