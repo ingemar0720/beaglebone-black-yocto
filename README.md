@@ -24,9 +24,9 @@ texinfo
 3. clone other repo into poky repo directory 
   ```
   cd poky-zeus
-  git clone -b zeus git://git.openembedded.org/meta-openembedded
-  git clone -b zeus https://github.com/meta-qt5/meta-qt5
-  git clone -b zeus git://git.yoctoproject.org/meta-raspberrypi # for rpi, skip if build for BBB
+  git clone -b zeus git://git.openembedded.org/meta-openembedded.git
+  git clone -b zeus git://github.com/meta-qt5/meta-qt5.git
+  git clone -b zeus git://git.yoctoproject.org/meta-raspberrypi.git # for rpi, skip if build for BBB
   git clone -b zeus git://git.yoctoproject.org/meta-security.git
   git clone -b zeus git://git.yoctoproject.org/meta-virtualization.git # for docker, skip if no need
   ```
